@@ -21,18 +21,21 @@ Building Enterprise AI Systems, Cloud Platforms, Intelligent Automation, and Res
 
 # 👋 About Me
 
-I am a **Senior Consultant, Enterprise AI Engineer, and Independent Researcher** focused on designing and building scalable intelligent systems for modern enterprises.
+I am a **Senior Consultant, Enterprise AI Engineer, Platform Architect, and Independent Researcher** with **20+ years of experience** designing, engineering, and transforming enterprise-scale technology platforms.
 
-With **15+ years of experience** across cloud architecture, platform engineering, DevOps, AI engineering, and enterprise transformation, my current research focuses on creating trustworthy, scalable, and production-ready AI ecosystems.
+My work spans **Cloud Architecture, Platform Engineering, DevOps, Artificial Intelligence, Generative AI, and Enterprise Digital Transformation**, helping organizations build secure, scalable, and intelligent technology ecosystems.
 
-My work bridges:
+Currently, my research and innovation focus on advancing:
 
-- 🤖 Enterprise Artificial Intelligence
-- 🧠 Agentic AI Systems
-- 🔐 AI Assurance & Governance
-- ☁️ Cloud-Native Platforms
-- ⚙️ Platform Engineering
-- 📊 LLMOps & AI Observability
+- 🤖 Enterprise AI & Agentic AI Systems
+- 🧠 AI-Powered Knowledge Intelligence
+- 🛡️ AI Assurance, Governance & Responsible AI
+- ⚙️ LLMOps and Production AI Engineering
+- ☁️ Cloud-Native Platforms and Intelligent Automation
+
+I am the creator of research initiatives including **Enterprise AI Assurance™**, **Enterprise Digital Brain™**, and the **BIO-Quantum Energy Brain (BQEB)** research framework, exploring how AI can enable trustworthy decision-making, enterprise intelligence, and next-generation intelligent systems.
+
+My mission is to bridge the gap between **AI research and real-world enterprise adoption** by developing practical frameworks, architectures, publications, and open-source contributions that accelerate responsible AI transformation.
 
 
 ---
@@ -199,17 +202,15 @@ Grafana
 
 <p align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=RakeshKumarAgrawal&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RakeshKumarAgrawal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakeshKumarAgrawal&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RakeshKumarAgrawal&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=RakeshKumarAgrawal&theme=tokyonight"/>
-
+  <img src="https://streak-stats.demolab.com?user=RakeshKumarAgrawal&theme=tokyonight&hide_border=true" />
 </p>
 
 
@@ -232,25 +233,64 @@ Founder of Enterprise Intelligence Lab, an initiative focused on:
 
 ---
 
-# 📫 Connect
+# 📫 Connect With Me
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/rakeshkumaragrawal/">
-LinkedIn
+<img src="https://img.shields.io/badge/LinkedIn-Professional_Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-&nbsp;
 
 <a href="https://github.com/RakeshKumarAgrawal">
-GitHub
+<img src="https://img.shields.io/badge/GitHub-Research_%26_Open_Source-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-&nbsp;
+<a href="https://www.enterpriseintelligencelab.com">
+<img src="https://img.shields.io/badge/Enterprise_Intelligence_Lab-AI_Research-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 
 <a href="mailto:rkagrawal@ieee.org">
-Email
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+</p>
+
+
+## 🔬 Research Profiles
+
+<p align="center">
+
+<a href="YOUR_ORCID_URL">
+<img src="https://img.shields.io/badge/ORCID-Research_Profile-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
+</a>
+
+<a href="YOUR_RESEARCHGATE_URL">
+<img src="https://img.shields.io/badge/ResearchGate-Publications-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/>
+</a>
+
+<a href="YOUR_IEEE_URL">
+<img src="https://img.shields.io/badge/IEEE-Technical_Profile-00629B?style=for-the-badge&logo=ieee&logoColor=white"/>
+</a>
+
+</p>
+
+## 🤝 Open to Collaboration
+
+I am interested in collaborating on:
+
+- 🤖 Enterprise AI & Agentic AI research
+- 🧠 AI Governance and AI Assurance
+- ☁️ Cloud-Native Platform Engineering
+- 📚 AI engineering publications
+- 🔬 Open-source AI frameworks
+- 🌍 Responsible AI innovation
+
+
+<p align="center">
+
+⭐ If you find my work useful, consider starring my repositories.
+
+Let's build the future of Enterprise AI together.
 
 </p>
 
